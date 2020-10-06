@@ -1,0 +1,20 @@
+[
+  {
+    "name": "emma",
+    "tagline": "Emma is a command line assistant which helps you search and install packages more efficiently from your CLI."
+  },
+  {
+    "name": "share-cli",
+    "tagline": "Quickly share files from your command line",
+    "link": "https://github.com/marionebl/share-cli"
+  },
+  {
+    "name": "rebound",
+    "tagline": "Command-line tool that instantly fetches Stack Overflow results when an exception is thrown",
+    "link": "https://github.com/shobrook/rebound"
+  },
+  {
+    "name": "gtop",
+    "tagline": "NodeJS based system overview"
+  }
+]
